@@ -1,4 +1,4 @@
-module github.com/xuanbo/eureka-client
+module github.com/redwarn/eureka-client
 
 go 1.14
 
